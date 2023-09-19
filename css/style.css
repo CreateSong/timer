@@ -59,9 +59,17 @@ body {
   color:#A5B6EE;
 }
 
+.timer-main .timer-time-num {
+  color:white;
+  text-align: center;
+}
+
 .timer-main .timer-time-box {
   width: 80px;
   height: 80px;
+  font-family: Pretendard-Regular;
+  font-size: 140px;
+  font-weight: 700;
 }
 
 .timer-btn {
